@@ -1,0 +1,15 @@
+body {
+    background-image: url("./images/pattern-background-desktop.svg");
+}
+
+.main {
+    min-width: 382.5px;
+}
+
+.plan {
+    width: 80%;
+}
+
+.botones {
+    width: 80%;
+}
